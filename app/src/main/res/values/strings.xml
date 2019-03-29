@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Le Juste Prix</string>
+    <string name="trouver_le_bon_prix">Trouver le bon prix !</string>
+    <string name="saisir_un_nombre_en_1_et_100">Saisir un nombre en 1 et 100</string>
+    <string name="saisir_un_nombre_entre_1_et_100">Saisir un nombre entre 1 et 100 :</string>
+    <string name="button">Button</string>
+    <string name="strValider">VALIDER</string>
+    <string name="Greater">C\'EST PLUS</string>
+    <string name="Lower">C\'EST MOINS</string>
+    <string name="strGagne">GAGNÉ</string>
+    <string name="strMessage">Félicitations %s vous avez trouvé en %d coups. Votre temps est de : %d secondes</string>
+    <string name="vous_avez_jou">Vous avez joué :</string>
+    <string name="nb_coups">Nb coups :</string>
+    <string name="txtscore">txtscore</string>
+    <string name="lblcoup">lblcoup</string>
+    <string name="score">%d</string>
+    <string name="_00">00</string>
+    <string name="high_score_300">High Score : 300</string>
+    <string name="_150">150</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="partie_termin_e">Partie terminée</string>
+    <string name="recommencer">RECOMMENCER</string>
+    <string name="gagn">Gagné</string>
+    <string name="title_activity_welcome__register">Welcome_Register</string>
+    <string name="title_activity_welcome__login">Welcome_Login</string>
+    <string name="pseudo">Pseudo</string>
+    <string name="deja_enregistre">DEJA ENREGISTRE</string>
+    <string name="connexion">Connexion</string>
+    <string name="sauvegarder_personne">Sauvegarder Personne</string>
+    <string name="charger_personne">Charger Personne</string>
+    <string name="termin">Terminé</string>
+    <string name="todo">TODO</string>
+    <string name="logo">Logo</string>
+    <string name="timer">%d</string>
+    <string name="name">%s</string>
+    <string name="scoreFinal">Score</string>
+
+
+</resources>
